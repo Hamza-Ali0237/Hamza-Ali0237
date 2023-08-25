@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Humza Ali</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio project**
