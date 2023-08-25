@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.humza-ali.xyz](https://www.humza-ali.xyz)
 
-- ⚡ Fun fact **Do you know bananas' DNA is 60% similar to us?**
+- ⚡ Fun fact **Do you know a banana's DNA is 60% similar to us?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
