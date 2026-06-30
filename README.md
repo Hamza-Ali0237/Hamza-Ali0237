@@ -1,4 +1,4 @@
-### Hi, I'm Humza 👋
+### Hi, I'm Yousif 👋
 
 AI/ML Engineer based in Pakistan. I work on LLM evaluation, RAG systems, 
 and MLOps — most of my time goes into the unglamorous space between 
