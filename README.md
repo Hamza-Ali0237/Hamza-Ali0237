@@ -7,7 +7,6 @@ and MLOps — most of my time goes into the unglamorous space between
 When I'm not doing that, I'm teaching AI/ML and slowly building an 
 open-source LLM evaluation toolkit on the side.
 
-📫 humza.ali0694@gmail.com · [LinkedIn](https://www.linkedin.com/in/humza-ali-se/)
 
 ---
 
